@@ -16,7 +16,7 @@ typedef const std::string BF_ERROR;
 typedef std::string::const_iterator nodeptr;
 char cell_buffer[amoCells];
     
-short index = 0;
+size_t index = 0;
 BF_ERROR cie = "ERROR: Cell Not Available For Access!";
 BF_ERROR ncl = "ERROR: ] Has No Corresponding [!";
 std::stack<nodeptr> insStack;
