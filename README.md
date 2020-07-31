@@ -14,9 +14,9 @@
 
 ## How To Use It
 **For Files:**
-    In the command line, type:
-    `$ brainfuck "[filename.bf]"`
-    **Interactive Shell**
+    In the command line, type:  
+    `$ brainfuck "[filename.bf]"`  
+    **Interactive Shell**  
         `$ brainfuck -i/--interpret`
 
 
